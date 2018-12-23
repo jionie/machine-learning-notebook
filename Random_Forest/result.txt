@@ -1,0 +1,22 @@
+fitting tree: 1 of 10 trees
+time elapsed: 412.38544511795044
+fitting tree: 2 of 10 trees
+time elapsed: 413.92921710014343
+fitting tree: 3 of 10 trees
+time elapsed: 418.16268515586853
+fitting tree: 4 of 10 trees
+time elapsed: 499.4106559753418
+fitting tree: 5 of 10 trees
+time elapsed: 386.3414487838745
+fitting tree: 6 of 10 trees
+time elapsed: 339.69005489349365
+fitting tree: 7 of 10 trees
+time elapsed: 332.41711807250977
+fitting tree: 8 of 10 trees
+time elapsed: 364.76125383377075
+fitting tree: 9 of 10 trees
+time elapsed: 332.4755048751831
+fitting tree: 10 of 10 trees
+time elapsed: 385.9934377670288
+accuracy: 0.8956
+OOB estimate: 0.1044
